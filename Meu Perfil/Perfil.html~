@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="Estilo.css">
+    <title> Klejomar S. Oliveira </title>
+</head>
+<body>
+    <div id="lateral">
+    	  <div id="imgperf">
+    	  		<img id="img" src="perfil.jpg">
+    	  </div>
+        <p> something about us </p>
+    </div>
+    
+	 <div id="sitemesmo">    
+    <div id="nome">
+        <h1> <sub> Klejomar S. Oliveira </sub> </h1>
+    </div>
+
+    <div id="meio">
+    		<h2> Sample text on the mid </h1> 
+    </div>
+    </div>
+</body>
+</html>

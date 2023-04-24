@@ -1,0 +1,23 @@
+html {
+	height: 100%;
+	width: 100%;
+	}
+body {
+	background-color: skyblue;
+	}
+#nome {
+	float: left;
+	width: auto;
+	height: 20%;
+	background-color: white;
+	}
+#lateral {
+	float: left;
+	height: 100%;
+	width: 20%;
+	background-color: pink;
+	}
+#LN {
+	display: table;
+	border-color: black;
+	border-style: solid;}	
